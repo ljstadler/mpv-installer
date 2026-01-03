@@ -1,7 +1,7 @@
-# mpv-setup
+# mpv-installer
 
-## PowerShell script to set up, configure, and update [mpv](https://mpv.io) on Windows
+## PowerShell script to install and update [mpv](https://mpv.io) on Windows
 
 ```powershell
-irm "https://raw.githubusercontent.com/ljstadler/mpv-setup/main/setup.ps1" | iex
+irm "https://raw.githubusercontent.com/ljstadler/mpv-installer/main/script.ps1" | iex
 ```
